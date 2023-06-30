@@ -26,7 +26,7 @@ if($role=="Admin")
                
 	}
 </style>
-<title>Project Management System By Aditya Konda</title>
+<title>Project Management System By  Krishna Sri Addagudi</title>
 </head>
 <div>
 <body>
